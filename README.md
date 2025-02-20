@@ -35,11 +35,3 @@
 * streamlit
 * dotenv
 * langchain-ollama
-
-## Contributing
-
-... (Your contribution guidelines here)
-
-## License
-
-... (Your license information here)
