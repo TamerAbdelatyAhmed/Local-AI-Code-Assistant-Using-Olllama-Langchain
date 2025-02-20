@@ -7,21 +7,17 @@
 - An interactive AI code assistant designed to simplify your programming workflow. Ask any coding-related question and receive intelligent, context-aware responses. With built-in chat history and a user-friendly interface, this app is your go-to resource for all your coding inquiries.
 
 ## Installation
-
-1.  Clone the repository:
-
-    git clone [repository URL]
    
-2.  Install the required dependencies:
+1.  Install the required dependencies:
     
     pip install -r requirements.txt
    
-3.  Set up your `.env` file with the necessary environment variables.
-4.  Run Ollama and pull the codellama model.
-5.  Run the streamlit app:
-    ```bash
-    streamlit run app.py
-    ```
+2.  Set up your `.env` file with the necessary environment variables.
+
+3.  Run Ollama and pull the codellama model. 
+    ollama pull codellama
+3.  Run the streamlit app:
+    streamlit run AI_Code_Assistant.py
 
 ## Usage
 
