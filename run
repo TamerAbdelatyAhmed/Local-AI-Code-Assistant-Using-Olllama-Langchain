@@ -1,1 +1,1 @@
-streamlit run Ollama_Langchain_ChatBot_RAG_App.py
+streamlit run AI_Code_Assistant.py
