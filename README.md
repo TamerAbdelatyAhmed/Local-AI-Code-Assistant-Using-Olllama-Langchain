@@ -9,13 +9,13 @@
 ## Installation
 
 1.  Clone the repository:
-    ```bash
+
     git clone [repository URL]
-    ```
+   
 2.  Install the required dependencies:
-    ```bash
+    
     pip install -r requirements.txt
-    ```
+   
 3.  Set up your `.env` file with the necessary environment variables.
 4.  Run Ollama and pull the codellama model.
 5.  Run the streamlit app:
